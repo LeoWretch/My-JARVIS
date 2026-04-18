@@ -45,6 +45,7 @@ python main.py
 * More advanced AI/NLP
 * Internet search integration
 * Custom voice commands
+* And many mores
 
 ## 👨‍💻 Author
 
